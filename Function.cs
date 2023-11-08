@@ -1,4 +1,4 @@
-sing System.Text;
+using System.Text;
 using Amazon.Lambda.Core;
 using Newtonsoft.Json;
 
